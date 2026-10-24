@@ -1,0 +1,26 @@
+# CS311 Homework 5 The Top K Countdown
+
+**Instructor starter:** https://github.com/cwillpinto/cs311-hw05-top-k-countdown  
+**Due:** Wednesday, November 4, 2026 at 11:59 PM Central  
+**Task:** [HW5_The_Top_K_Countdown.md](HW5_The_Top_K_Countdown.md)
+
+This repository is an intentionally incomplete student starter. Read the task and complete the TODOs. Copy your completed Lab 10 `MinHeap` into `min_heap.py` first.
+
+## Work in your own repository
+
+Choose **Use this template** on the instructor repository and create a repository under your own GitHub account. Clone your repository, work there, and push to your `origin`. If you clone the instructor repository directly, create an empty repository in your account, then run:
+
+```sh
+git remote rename origin upstream
+git remote add origin <your-repository-url>
+git remote -v
+git push -u origin <your-branch>
+```
+
+Check both URLs and your branch before pushing. Never push student work to the instructor starter.
+
+## Check and submit
+
+Run `python test_top_k.py` from the repository root. The supplied starter must fail at unfinished TODOs; the success token is earned only after the implementation and harness pass. The token does not grade written reasoning.
+
+Submit through Blackboard: `HW5_Theory.pdf` (or `.md`), completed `min_heap.py` and `top_k.py`, and its Success Token. Include your own repository URL and exact commit SHA as evidence. Confirm the Blackboard item and due setting before submitting.
