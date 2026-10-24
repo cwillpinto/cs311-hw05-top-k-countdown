@@ -1,6 +1,7 @@
 # Homework 5: The Top-K Countdown
 
 **Instructor starter repository:** https://github.com/cwillpinto/cs311-hw05-top-k-countdown
+**Points:** 100. **Due:** Wednesday, November 4, 2026 at 11:59 PM Central.
 ## CS 311: Data Structures & Algorithms (Fall 2026)
 
 ### 🏁 The Mission
